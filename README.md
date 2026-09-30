@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/avatar.png" width="320" alt="vzalyte" />
+<img src="assets/vzalyte.png" width="320" alt="vzalyte" />
 
 # vzalyte
 
